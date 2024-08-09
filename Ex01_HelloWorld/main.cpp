@@ -14,7 +14,7 @@ int main() // entry point
     // printf("Hello World!!! by printf");
 
     // 입출력에 대해서는 뒤에 다시 나와요.
-    char user_input[100];
+    char user_input[100]; // 문자열 배열
     cin >> user_input;
     cout << user_input;
 
